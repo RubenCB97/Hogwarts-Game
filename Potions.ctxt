@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Potions
+comment0.text=\r\n\ This\ class\ stores\ information\ about\ all\ the\ different\ potions\ a\ character\ can\ use.\r\n\ A\ potion\ modifies\ a\ character's\ offensive\ or\ defensive\ stats.\r\n\r\n\ @author\ The\ Order\ of\ the\ Phoenix\:\ Jorge\ Cancho\ Casado,\ Rub\u00E9n\ Costa\ Barriga\ and\ Arturo\ Mej\u00EDas\ Velasco\r\n\ @version\ 10/01/2020\r\n
+comment1.params=character
+comment1.target=Potions(Character)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Potions.\r\n\ \r\n\ @param\ character\ \ \ The\ character\ that\ is\ going\ to\ get\ its\ stats\ modified.\r\n
+comment2.params=
+comment2.target=double\ getOffensive()
+comment2.text=\r\n\ Returns\ the\ character's\ offensive\ points\ modified\ by\ a\ potion.\r\n\ \r\n\ @return\ double\ -\ Offensive\ points\ modified\ by\ a\ potion.\ \ \r\n
+comment3.params=
+comment3.target=double\ getDefensive()
+comment3.text=\r\n\ Returns\ the\ character's\ defensive\ points\ modified\ by\ a\ potion.\r\n\ \r\n\ @return\ double\ -\ Defensive\ points\ modified\ by\ a\ potion.\ \ \r\n
+numComments=4

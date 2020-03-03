@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=NameComparator
+comment0.text=\r\n\ This\ class\ compares\ the\ names\ of\ two\ different\ characters.\r\n\r\n\ @author\ The\ Order\ of\ the\ Phoenix\:\ Jorge\ Cancho\ Casado,\ Rub\u00E9n\ Costa\ Barriga\ and\ Arturo\ Mej\u00EDas\ Velasco\r\n\ @version\ 10/01/2020\r\n
+comment1.params=w1\ w2
+comment1.target=int\ compare(Wand,\ Wand)
+numComments=2

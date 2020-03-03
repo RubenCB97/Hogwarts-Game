@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Wand
+comment0.text=\r\n\ This\ class\ stores\ information\ about\ a\ wand\ such\ as\ its\ name\ or\ its\ behavior.\r\n\ Wands\ also\ modify\ character's\ stats\ when\ they\ are\ fighting\ in\ a\ duel.\r\n\ \r\n\ @author\ The\ Order\ of\ the\ Phoenix\:\ Jorge\ Cancho\ Casado,\ Rub\u00E9n\ Costa\ Barriga\ and\ Arturo\ Mej\u00EDas\ Velasco\r\n\ @version\ 10/01/2020\r\n\ \r\n
+comment1.params=wandName\ behavior
+comment1.target=Wand(java.lang.String,\ WandBehavior)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Wand.\r\n\ \r\n\ @param\ wandName\ \ \ Name\ of\ the\ wand.\r\n\ @param\ behavior\ \ \ Wand's\ behavior.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getWandName()
+comment2.text=\r\n\ Returns\ the\ name\ of\ the\ wand.\r\n\ \r\n\ @return\ String\ -\ Wand's\ name.\r\n
+comment3.params=
+comment3.target=WandBehavior\ getBehavior()
+comment3.text=\r\n\ Returns\ wand's\ behavior.\r\n\ \r\n\ @return\ WandBehavior\ -\ Wand's\ behavior.\r\n
+comment4.params=
+comment4.target=double\ getAttackModifier()
+comment4.text=\r\n\ Returns\ the\ attack\ modifier\ corresponding\ to\ the\ behavior\ when\ a\r\n\ character\ is\ attacking.\r\n\ \r\n\ @return\ double\ -\ Behavior's\ offensive\ attack\ modifier.\r\n
+comment5.params=
+comment5.target=double\ getEnergyModifierA()
+comment5.text=\r\n\ Returns\ the\ energy\ modifier\ corresponding\ to\ the\ behavior\ when\ a\r\n\ character\ is\ attacking.\r\n\ \r\n\ @return\ double\ -\ Behavior's\ offensive\ energy\ modifier.\r\n
+comment6.params=
+comment6.target=double\ getDefenseModifier()
+comment6.text=\r\n\ Returns\ the\ attack\ modifier\ corresponding\ to\ the\ behavior\ when\ a\r\n\ character\ is\ defending.\r\n\ \r\n\ @return\ double\ -\ Behavior's\ defensive\ attack\ modifier.\r\n
+comment7.params=
+comment7.target=double\ getEnergyModifierD()
+comment7.text=\r\n\ Returns\ the\ energy\ modifier\ corresponding\ to\ the\ behavior\ when\ a\r\n\ character\ is\ defending.\r\n\ \r\n\ @return\ double\ -\ Behavior's\ defensive\ energy\ modifier.\r\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

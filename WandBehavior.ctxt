@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=WandBehavior
+comment0.text=\r\n\ Representation\ for\ all\ the\ valid\ behaviors\ a\ wand\ can\ have.\r\n\ Each\ behavior\ has\ different\ attack,\ energy\ and\ defense\ modifiers\ that\r\n\ affect\ a\ character's\ offensive\ or\ defensive\ points.\r\n\ \r\n\ @author\ The\ Order\ of\ the\ Phoenix\:\ Jorge\ Cancho\ Casado,\ Rub\u00E9n\ Costa\ Barriga\ and\ Arturo\ Mej\u00EDas\ Velasco\r\n\ @version\ 10/01/2020\r\n
+comment1.params=
+comment1.target=double\ getAttackModifier()
+comment1.text=\r\n\ Returns\ the\ value\ that\ modifies\ an\ attacker's\ offensive\ points.\r\n\ \r\n\ @return\ double\ -\ Attack\ modifying\ value\ when\ attacking.\r\n
+comment2.params=
+comment2.target=double\ getEnergyModifierA()
+comment2.text=\r\n\ Returns\ the\ value\ that\ modifies\ an\ attacker's\ energy\ points.\r\n\ \r\n\ @return\ double\ -\ Energy\ modifying\ value\ when\ attacking.\r\n
+comment3.params=
+comment3.target=double\ getDefenseModifier()
+comment3.text=\r\n\ Returns\ the\ value\ that\ modifies\ a\ defender's\ defensive\ points.\r\n\ \r\n\ @return\ double\ -\ Defense\ modifying\ value\ when\ defending.\r\n
+comment4.params=
+comment4.target=double\ getEnergyModifierD()
+comment4.text=\r\n\ Returns\ the\ value\ that\ modifies\ a\ defender's\ energy\ points.\r\n\ \r\n\ @return\ double\ -\ Energy\ modifying\ value\ when\ defending.\r\n
+numComments=5

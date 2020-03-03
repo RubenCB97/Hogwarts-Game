@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Gryffindor
+comment0.text=\r\n\ This\ class\ corresponds\ to\ the\ Gryffindor\ house.\r\n\r\n\ @author\ The\ Order\ of\ the\ Phoenix\:\ Jorge\ Cancho\ Casado,\ Rub\u00E9n\ Costa\ Barriga\ and\ Arturo\ Mej\u00EDas\ Velasco\r\n\ @version\ 10/01/2020\r\n
+comment1.params=
+comment1.target=void\ sortMembers()
+numComments=2

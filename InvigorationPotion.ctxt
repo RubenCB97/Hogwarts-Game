@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=InvigorationPotion
+comment0.text=\r\n\ This\ class\ stores\ information\ about\ the\ Invigoration\ potion.\r\n\r\n\ @author\ The\ Order\ of\ the\ Phoenix\:\ Jorge\ Cancho\ Casado,\ Rub\u00E9n\ Costa\ Barriga\ and\ Arturo\ Mej\u00EDas\ Velasco\r\n\ @version\ 10/01/2020\r\n
+comment1.params=character
+comment1.target=InvigorationPotion(Character)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ InvigorationPotion.\r\n\ \r\n\ @param\ character\ \ \ The\ character\ that\ uses\ the\ potion.\r\n
+comment2.params=
+comment2.target=double\ getDefensive()
+numComments=3

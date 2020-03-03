@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=InitData
+comment0.text=\r\n\ Class\ to\ init\ data\ of\ the\ simulation.\ \r\n\ It\ could\ be\ used\ also\ to\ write\ finals\ results.\r\n\ \r\n\ @author\ The\ Order\ of\ the\ Phoenix\:\ Jorge\ Cancho\ Casado,\ Rub\u00E9n\ Costa\ Barriga\ and\ Arturo\ Mej\u00EDas\ Velasco\r\n\ @version\ 10/01/2020\r\n
+comment1.params=
+comment1.target=InitData()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ InitData.\r\n
+comment2.params=
+comment2.target=void\ initData1()
+comment3.params=
+comment3.target=void\ initData2()
+comment4.params=
+comment4.target=java.lang.String\ initInfo()
+comment4.text=\r\n\ Returns\ a\ String\ that\ contains\ initData's\ information.\r\n\ \r\n\ @return\ String\ -\ initData\ information.\r\n
+numComments=5

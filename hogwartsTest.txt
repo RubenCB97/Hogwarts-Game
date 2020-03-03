@@ -1,0 +1,135 @@
+
+***This file contains the desired results of Hogwarts' tests.***
+
+houses:
+-------
+house:<Hufflepuff>
+character:<Cedric Diggory> <e: 20.0> <o: 20.0> <d: 35.0> <wand: CedricW (HawthornWandBehavior)>
+character:<Nymphadora Tonks> <e: 20.0> <o: 20.0> <d: 25.0> <wand: NymphadoraW (HawthornWandBehavior)>
+
+house:<Slytherin>
+character:<Dolores Umbridge> <e: 20.0> <o: 25.0> <d: 20.0> <wand: DoloresW (HollyWandBehavior)>
+character:<Draco Malfoy> <e: 20.0> <o: 20.0> <d: 25.0> <wand: DracoW (HollyWandBehavior)>
+
+house:<Gryffindor>
+character:<Harry Potter> <e: 20.0> <o: 32.5> <d: 28.0> <wand: HarryW (HawthornWandBehavior)>
+character:<Hermione Granger> <e: 20.0> <o: 20.0> <d: 35.0> <wand: HermioneW (HollyWandBehavior)>
+
+new wands:
+-----------
+wand: <Ivy (HawthornWandBehavior)>
+wand: <Larch (HawthornWandBehavior)>
+wand: <Rowan (HollyWandBehavior)>
+
+turn: <0>
+characters who are going to duel:
+---------------------------------
+character:<Cedric Diggory> <e: 20.0> <o: 20.0> <d: 35.0> <wand: CedricW (HawthornWandBehavior)>
+character:<Dolores Umbridge> <e: 20.0> <o: 25.0> <d: 20.0> <wand: DoloresW (HollyWandBehavior)>
+character:<Harry Potter> <e: 20.0> <o: 32.5> <d: 28.0> <wand: HarryW (HawthornWandBehavior)>
+
+
+duels:
+------
+<Cedric Diggory> is dueling against <Dolores Umbridge>
+attack points of <Cedric Diggory> are: <40.0>
+resistance points of <Dolores Umbridge> are: <40.0>
+the remaining energy of <Dolores Umbridge> after the duel are: <20.0>
+
+<Cedric Diggory> is dueling against <Harry Potter>
+attack points of <Cedric Diggory> are: <40.0>
+resistance points of <Harry Potter> are: <21.6>
+the remaining energy of <Harry Potter> after the duel are: <1.6>
+
+<Dolores Umbridge> is dueling against <Cedric Diggory>
+attack points of <Dolores Umbridge> are: <21.5>
+resistance points of <Cedric Diggory> are: <23.0>
+the remaining energy of <Cedric Diggory> after the duel are: <20.0>
+
+<Dolores Umbridge> is dueling against <Harry Potter>
+attack points of <Dolores Umbridge> are: <21.5>
+resistance points of <Harry Potter> are: <6.88>
+the remaining energy of <Harry Potter> after the duel are: <0.0>
+
+<Harry Potter> is dueling against <Cedric Diggory>
+<Harry Potter> is dueling against <Dolores Umbridge>
+
+duel results:
+-------------
+character:<Cedric Diggory> <e: 20.0> <o: 20.0> <d: 35.0> <wand: CedricW (HawthornWandBehavior)> returns to the house
+new wand assigned: <Ivy (HawthornWandBehavior)>
+character:<Dolores Umbridge> <e: 20.0> <o: 25.0> <d: 20.0> <wand: DoloresW (HollyWandBehavior)> returns to the house
+new wand assigned: <Larch (HawthornWandBehavior)>
+character:<Harry Potter> <e: 0.0> <o: 32.5> <d: 28.0> <wand: HarryW (HawthornWandBehavior)> goes to dungeon
+
+turn: <1>
+characters who are going to duel:
+---------------------------------
+character:<Draco Malfoy> <e: 20.0> <o: 20.0> <d: 25.0> <wand: DracoW (HollyWandBehavior)>
+character:<Hermione Granger> <e: 20.0> <o: 20.0> <d: 35.0> <wand: HermioneW (HollyWandBehavior)>
+character:<Nymphadora Tonks> <e: 20.0> <o: 20.0> <d: 25.0> <wand: NymphadoraW (HawthornWandBehavior)>
+
+
+duels:
+------
+<Draco Malfoy> is dueling against <Hermione Granger>
+attack points of <Draco Malfoy> are: <20.0>
+resistance points of <Hermione Granger> are: <56.5>
+the remaining energy of <Hermione Granger> after the duel are: <20.0>
+
+<Draco Malfoy> is dueling against <Nymphadora Tonks>
+attack points of <Draco Malfoy> are: <20.0>
+resistance points of <Nymphadora Tonks> are: <21.0>
+the remaining energy of <Nymphadora Tonks> after the duel are: <20.0>
+
+<Hermione Granger> is dueling against <Draco Malfoy>
+attack points of <Hermione Granger> are: <20.0>
+resistance points of <Draco Malfoy> are: <45.5>
+the remaining energy of <Draco Malfoy> after the duel are: <20.0>
+
+<Hermione Granger> is dueling against <Nymphadora Tonks>
+attack points of <Hermione Granger> are: <20.0>
+resistance points of <Nymphadora Tonks> are: <21.0>
+the remaining energy of <Nymphadora Tonks> after the duel are: <20.0>
+
+<Nymphadora Tonks> is dueling against <Draco Malfoy>
+attack points of <Nymphadora Tonks> are: <40.0>
+resistance points of <Draco Malfoy> are: <45.5>
+the remaining energy of <Draco Malfoy> after the duel are: <20.0>
+
+<Nymphadora Tonks> is dueling against <Hermione Granger>
+attack points of <Nymphadora Tonks> are: <40.0>
+resistance points of <Hermione Granger> are: <56.5>
+the remaining energy of <Hermione Granger> after the duel are: <20.0>
+
+
+duel results:
+-------------
+character:<Draco Malfoy> <e: 20.0> <o: 20.0> <d: 25.0> <wand: DracoW (HollyWandBehavior)> returns to the house
+new wand assigned: <Rowan (HollyWandBehavior)>
+character:<Hermione Granger> <e: 20.0> <o: 20.0> <d: 35.0> <wand: HermioneW (HollyWandBehavior)> returns to the house
+character:<Nymphadora Tonks> <e: 20.0> <o: 20.0> <d: 25.0> <wand: NymphadoraW (HawthornWandBehavior)> returns to the house
+
+end of the simulation:
+----------------------
+houses:
+-------
+house:<Hufflepuff>
+character:<Cedric Diggory> <e: 20.0> <o: 20.0> <d: 35.0> <wand: Ivy (HawthornWandBehavior)>
+character:<Nymphadora Tonks> <e: 20.0> <o: 20.0> <d: 25.0> <wand: NymphadoraW (HawthornWandBehavior)>
+
+house:<Slytherin>
+character:<Dolores Umbridge> <e: 20.0> <o: 25.0> <d: 20.0> <wand: Larch (HawthornWandBehavior)>
+character:<Draco Malfoy> <e: 20.0> <o: 20.0> <d: 25.0> <wand: Rowan (HollyWandBehavior)>
+
+house:<Gryffindor>
+character:<Hermione Granger> <e: 20.0> <o: 20.0> <d: 35.0> <wand: HermioneW (HollyWandBehavior)>
+
+new wands:
+-----------
+
+the winner house is:
+--------------------
+house:<Hufflepuff>
+character:<Cedric Diggory> <e: 20.0> <o: 20.0> <d: 35.0> <wand: Ivy (HawthornWandBehavior)>
+character:<Nymphadora Tonks> <e: 20.0> <o: 20.0> <d: 25.0> <wand: NymphadoraW (HawthornWandBehavior)>

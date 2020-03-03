@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=OffensiveComparatorTest
+comment0.text=\r\n\ The\ test\ class\ OffensiveComparatorTest.\r\n\r\n\ @author\ The\ Order\ of\ the\ Phoenix\:\ Jorge\ Cancho\ Casado,\ Rub\u00E9n\ Costa\ Barriga\ and\ Arturo\ Mej\u00EDas\ Velasco\r\n\ @version\ 10/01/2020\r\n
+comment1.params=
+comment1.target=OffensiveComparatorTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ EnergyComparatorTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment4.params=
+comment4.target=void\ compareTest()
+comment4.text=\r\n\ Tests\ for\ method\ compare.\r\n
+numComments=5
